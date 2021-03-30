@@ -74,6 +74,49 @@ Create Flutter App using Visual Studio Code
 5. Select the folder to create Flutter project
 6. The project folder will be opened and all the necessary files and folders will be created
 
+Android Studio 
+
+Install the Flutter Plugin on Android Studio
+1. In the window **Welcome to Android Studio** click on **Configure** and then on **Plugins**
+2. In the search bar type in **flutter** and click on **Search in repositories**
+3. Click on the one that says **Flutter**, Then click on **Install, Accept** and **Yes**
+4. Now click on **Restart Android Studio**, then on **OK**, and on **Restart**
+5. Android Studio will open again
+
+Add the Android SDK to Flutter
+1. Again open the **Environment variables**
+2. And in the **System variables** click on **New**
+3. In **Variable name** type **ANDROID_HOME**
+4. Click on **Browse directory** and select the path to download the Android SDK:
+   ```sh
+   C:\Users\<YOUR_WINDOWS_USERNAME>\Android\SDK
+   ```
+5. Now click on **Ok** in the 3 windows to save changes
+6. Press the **Windows key** and in the search bar type **cmd** and select the **Command Prompt**
+7. Type the command **flutter doctor** and press **Enter**
+8. You will notice that you need to accept Android licenses, so type the following command and press **Enter**:
+     ```sh
+       flutter doctor --android-licenses
+     ```
+9. Now you will be asked if **you agree each license**, in which you must type **Y** and press **Enter** for each license
+10. When you have accepted all the licenses you will get **All SDK package licenses** accepted and close the Command Prompt
+
+Create Flutter App using Android Studio
+1. In the **Welcome to Android Studio** window click on **Start a new Flutter Project**
+2. Select **Flutter Application** and click on **Next**, it will open **Configure the new Flutter application**
+3. In **Project name** enter the name of the project, which should go in the **lowercase_with_underscores**
+4. In **Flutter SDK path** enter 
+    ```sh
+   C:\flutter
+   ```
+5. In **Project location** enter the location where you want to create the project
+6. In **Description** enter a brief description of the project
+7. Now click on **Next**, and it will open **Set the package name**
+8. In **Company’s domain** enter a domain of yours or any unique identifier you want, which will be used to generate the **Package name**
+9. The **Package name** will be auto-generated with the **Project name** and the **Company’s domain**, which is used to identify your app in the Play Store, although if you do not like it auto-genre you can edit it
+10. In **Platform channel language** choose if you want your app Flutter support Kotlin for the Android code and Swift for the iOS code, in case you want to also code native code for each platform
+11. Click on **Finish** and it will create all the folders and files of your project Flutter
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com) //gua gatau bagian ini kev
