@@ -143,7 +143,7 @@ Create Flutter App using Android Studio
 Create an Android Virtual Device (AVD)
 1. Open Android Studio
 2. Select **File > Open > SethCMobileApp**
-3. Install imports
+3. Install flutter imports
 ```sh
 flutter pub get
 ```
