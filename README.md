@@ -48,11 +48,31 @@ In developing this app, we use three google products
 
 ### Prerequisites
 
-Before we run the app, we need to install the latest packages in flutter using
-* flutter
+Before installing the code, We need to install flutter in the editor
+
+Visual Studio Code 
+
+Install the extension of Flutter on Visual Studio Code
+1. Open Visual Studio Code
+2. Click on the **Extensions** or **Ctrl+Shift+X**
+3. In the search bar type flutter
   ```sh
-  flutter pub get
+  flutter
   ```
+4. Select **Flutter** by the Author **Dart Code**
+5. Click on **Install**
+6. Click on **Reload**
+
+Create Flutter App using Visual Studio Code
+1. Open the command palette in **View > Command Palette** or **F1** or **Ctrl+Shift+P**
+2. In the search bar type flutter
+  ```sh
+  flutter
+  ```
+3. Select with the arrow keys on the keyboard **Flutter: New Project** and press **Enter**
+4. Enter the **name of the Flutter project**
+5. Select the folder to create Flutter project
+6. The project folder will be opened and all the necessary files and folders will be created
 
 ### Installation
 
