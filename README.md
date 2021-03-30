@@ -25,7 +25,7 @@
 </details>
 
 ## 1. About The Project
-Some nice text
+SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech use google product such as flutter and google cloud platform. 
 
 ## 2. Getting Started
 Some even nicer text
