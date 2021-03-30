@@ -144,7 +144,9 @@ Create an Android Virtual Device (AVD)
 1. Open Android Studio
 2. Select **File > Open > SethCMobileApp**
 3. Install imports
+```sh
 flutter pub get
+```
 4. Create virtual device by clicking **Tools > AVD Manager**
 [screenshot]
 5. Click **Create Virtual Device**
@@ -155,6 +157,7 @@ If you see **Download** next to the system image, you need to click it to downlo
 [screenshot]
 7. In **Verify Configuration** page, change AVD properties as needed, then click **Finish**
 [screenshot]
+
 
 Run code on AVD
 1. Click **Tools > AVD Manager**
