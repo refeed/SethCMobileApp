@@ -167,10 +167,6 @@ Run code on AVD
   </a>
 </p>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 
 <!-- CONTACT -->
 ## Contact
