@@ -1,8 +1,9 @@
 
 <!-- PROJECT LOGO -->
-
-![SETHLogo](https://user-images.githubusercontent.com/74372891/113023445-ced06400-91af-11eb-857b-12047b4e0ec5.jpeg)
-
+<br />
+<p align="center">
+    <img src="SethcMobileApp/assets/images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
   <h3 align="center">Seth C Mobile App</h3>
 
