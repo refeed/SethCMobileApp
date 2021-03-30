@@ -39,6 +39,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![WhatsApp Image 2021-03-30 at 23 27 55](https://user-images.githubusercontent.com/74372891/113023215-9cbf0200-91af-11eb-8c03-f8c6026b0cf2.jpeg)
 
 SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech Team use google product such as flutter and google cloud platform. 
 
