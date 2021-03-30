@@ -161,7 +161,7 @@ Run code on AVD
 5. Run the code on emulator by clicking **Run > Run 'main.dart'**
 7. Wait for the application to run
 8. The app is ready to use
-<img src="assets/images/Screenshot 2021-03-31 004454.png" alt="Logo" width="80" height="100"><img>
+<img src="assets/images/Screenshot 2021-03-31 004454.png" alt="Logo" width="456" height="813"><img>
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
