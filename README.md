@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="SethcMobileApp/assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="SethCMobileApp/assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Seth C Mobile App</h3>
