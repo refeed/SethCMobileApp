@@ -162,16 +162,9 @@ Run code on AVD
 7. Wait for the application to run
 8. The app is ready to use
 <br />
-<p align="center">
+<p align="left">
   <img src="assets/images/Screenshot 2021-03-31 004454.png" alt="Login Page" width="356" height="713"><img>
   </a>
-
-  <h3 align="center">Seth C Mobile App</h3>
-
-  <p align="center">
-    <a href="https://youtu.be/nMipBSv4ch8">View Demo</a>
-
-  </p>
 </p>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
