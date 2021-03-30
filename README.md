@@ -42,7 +42,8 @@
 
 SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech Team use google product such as flutter and google cloud platform. 
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Built With
+In developing this app, we use three google products
 * [Flutter](https://flutter.dev/)
 * [Google Maps](https://www.google.com/maps)
 * [Google Cloud Platform](https://cloud.google.com/)
