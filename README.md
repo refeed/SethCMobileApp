@@ -151,21 +151,16 @@ flutter pub get
 [screenshot]
 5. Click **Create Virtual Device**
 5. In **Select Hardware** page, choose virtual device by **Category > Phone** and select desired size. Then, click **Next**
-[screenshot]
 6. In **System Image** page, select **Q** (or your desired system image).
 If you see **Download** next to the system image, you need to click it to download the system image. You must be connected to the internet to download it.
-[screenshot]
 7. In **Verify Configuration** page, change AVD properties as needed, then click **Finish**
-[screenshot]
 
 
 Run code on AVD
 1. Click **Tools > AVD Manager**
-2. Click **Launch** [segitiga ijo]
-[screenshot]
+2. Click **Launch**
 3. Wait until emulator appears on your screen
-4. Run the code on emulator by clicking **Run** [segitiga ijo]
-[screenshot]
+4. Run the code on emulator by clicking **Run > Run 'main.dart'**
 5. Wait for your application to run
 
 
