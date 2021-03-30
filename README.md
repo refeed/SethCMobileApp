@@ -50,10 +50,10 @@ In developing this app, we use three google products
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Before we run the app, we need to install the latest packages in flutter using
+* flutter
   ```sh
-  npm install npm@latest -g
+  flutter pub get
   ```
 
 ### Installation
