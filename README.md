@@ -74,6 +74,8 @@ Create Flutter App using Visual Studio Code
 5. Select the folder to create Flutter project
 6. The project folder will be opened and all the necessary files and folders will be created
 
+
+
 Android Studio 
 
 Install the Flutter Plugin on Android Studio
