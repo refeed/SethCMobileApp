@@ -40,6 +40,4 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech Team use google product such as flutter and google cloud platform. 
