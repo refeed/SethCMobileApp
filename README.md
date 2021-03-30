@@ -76,7 +76,7 @@ Create Flutter App using Visual Studio Code
 
 
 
-##### Android Studio 
+#### Android Studio 
 
 Install the Flutter Plugin on Android Studio
 1. In the window **Welcome to Android Studio** click on **Configure** and then on **Plugins**
