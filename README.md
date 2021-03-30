@@ -58,16 +58,16 @@ Before we run the app, we need to install the latest packages in flutter using
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://example.com](https://example.com) //gua gatau bagian ini kev
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/delkirawan/SethCMobileApp
    ```
-3. Install NPM packages
+3. Install NPM packages //gua gatau bagian ini kev
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `config.js` //gua gatau bagian ini kev
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
