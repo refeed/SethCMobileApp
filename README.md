@@ -1,6 +1,6 @@
 
 <!-- PROJECT LOGO -->
-<br />
+
 ![SETHLogo](https://user-images.githubusercontent.com/74372891/113023445-ced06400-91af-11eb-857b-12047b4e0ec5.jpeg)
 
 
