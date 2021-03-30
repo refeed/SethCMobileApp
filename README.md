@@ -50,7 +50,7 @@ In developing this app, we use three google products
 
 Before installing the code, We need to install flutter in the editor
 
-Visual Studio Code 
+#### Visual Studio Code 
 
 Install the extension of Flutter on Visual Studio Code
 1. Open Visual Studio Code
@@ -76,7 +76,7 @@ Create Flutter App using Visual Studio Code
 
 
 
-Android Studio 
+##### Android Studio 
 
 Install the Flutter Plugin on Android Studio
 1. In the window **Welcome to Android Studio** click on **Configure** and then on **Plugins**
