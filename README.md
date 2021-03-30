@@ -148,19 +148,27 @@ Create an Android Virtual Device (AVD)
 flutter pub get
 ```
 4. Create virtual device by opening **AVD Manager**
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
 5. Click **Create Virtual Device**
-5. In **Select Hardware** page, choose virtual device by **Category > Phone** and select desired size. Then, click **Next**
-6. In **System Image** page, select **Q** (or your desired system image).\n
-If you see **Download** next to the system image, you need to click it to download the system image. You must be connected to the internet to download it.
-7. In **Verify Configuration** page, change AVD properties as needed, then click **Finish**
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
+7. In **Select Hardware** page, choose virtual device by **Category > Phone** and select desired size. Then, click **Next**
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
+9. In **System Image** page, select **Q** (or your desired system image). If you see **Download** next to the system image, you need to click it to download the system image. You must be connected to the internet to download it.
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
+11. In **Verify Configuration** page, change AVD properties as needed, then click **Finish**
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
 
 
 Run code on AVD
 1. Open **AVD Manager**
 2. On **Actions** column, click the green triangle button to launch
-3. Wait until emulator appears on your screen
-4. Run the code on emulator by clicking **Run > Run 'main.dart'**
-5. Wait for your application to run
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
+4. Wait until emulator appears on your screen
+5. Run the code on emulator by clicking **Run > Run 'main.dart'**
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
+7. Wait for the application to run
+8. The app is ready to use
+<img src="assets/images/logo.png" alt="Logo" width="80" height="100">
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
