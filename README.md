@@ -38,7 +38,7 @@
 ## About The Project
 ![WhatsApp Image 2021-03-30 at 23 27 55](https://user-images.githubusercontent.com/74372891/113023215-9cbf0200-91af-11eb-8c03-f8c6026b0cf2.jpeg)
 
-SETH C is used as an information channel and certificate verification for the users. On developing this app, AGAK Tech Team use google product such as flutter and google cloud platform. 
+SETH C  is in the form of a mobile application. The purpose is as an information channel (regarding covid 19), interaction of the user with the covid testing result,  and also extra features including test types that a specific hospital provides,  information on the specific certificate needed on entering a specific area, the previous certificate made for the user. 
 
 ### Built With
 In developing this app, we use three google products
