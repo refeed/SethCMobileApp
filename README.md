@@ -27,7 +27,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -119,21 +118,6 @@ Create Flutter App using Android Studio
 10. In **Platform channel language** choose if you want your app Flutter support Kotlin for the Android code and Swift for the iOS code, in case you want to also code native code for each platform
 11. Click on **Finish** and it will create all the folders and files of your project Flutter
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com) //gua gatau bagian ini kev
-2. Clone the repo
-   ```sh
-   git clone https://github.com/delkirawan/SethCMobileApp
-   ```
-3. Install NPM packages //gua gatau bagian ini kev
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js` //gua gatau bagian ini kev
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 
 
